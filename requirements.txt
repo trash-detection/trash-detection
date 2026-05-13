@@ -1,0 +1,14 @@
+numpy
+pyyaml
+matplotlib
+tqdm
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+opencv-python
+requests
+psutil
+py-cpuinfo
+pandas
+onnx
+onnxruntime
