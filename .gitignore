@@ -142,8 +142,6 @@ output/
 !models/trainedv8s.onnx
 !models/static_quantized.onnx
 !models/trainedv8s.pt
-5_phase_training/dataset/
-
 # Large files
 *.mp4
 *.avi
@@ -154,3 +152,4 @@ output/
 *.temp
 .cache/
 temp/
+5_phase_training/
