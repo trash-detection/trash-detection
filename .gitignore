@@ -138,12 +138,11 @@ Thumbs.db
 runs/
 weights/
 output/
-*.onnx
-*.pt
 *.pth
 !models/trainedv8s.onnx
 !models/static_quantized.onnx
 !models/trainedv8s.pt
+5_phase_training/dataset/
 
 # Large files
 *.mp4

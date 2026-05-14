@@ -12,3 +12,5 @@ py-cpuinfo
 pandas
 onnx
 onnxruntime
+onnxconverter_common
+onnx-simplifier
